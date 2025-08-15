@@ -1,4 +1,3 @@
-//fan controller
 package com.example.demo.controller;
 
 import com.example.demo.services.FanService;
